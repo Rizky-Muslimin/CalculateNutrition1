@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nutrition</string>
+
+    <string-array name="list_jk">
+        <item>Pria</item>
+        <item>Wanita</item>
+
+    </string-array>
+</resources>
